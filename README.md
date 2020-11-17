@@ -120,6 +120,9 @@ We are following [**Contributor Covenant Code of Conduct**](.github/CODE_OF_COND
     * **Spiral Order Matrix**
       * [C++](ARRAYS/C++/Pattern_printing/SpiralOrderMat.cpp)
       * [JAVA](ARRAYS/JAVA/MISC/spiralOrder.java)
+  * *Recursion*
+    * **Josephus Problem**
+      * [C++](ARRAYS/C++/Recursion/josephusProblem.cpp)
 
 ***
 
